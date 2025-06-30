@@ -1,4 +1,4 @@
-module addr_b(in1,in2,sum,carry);
+module addr_s(in1,in2,sum,carry);
   input in1,in2;
   output sum,carry;
   and g0(carry,in1,in2);
