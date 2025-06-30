@@ -1,9 +1,14 @@
-# HDLbits-
+**#365days of Verilog from beginner to RTL Level**
+# HDLbits 
+It is meant to serve as a learning resource and my personal log of progress in mastering RTL (Register Transfer Level) design using Verilog.
+
 Practice problems and solutions from HDLBits — Verilog exercises for mastering digital design using Hardware Description Languages.
 
 # HDLbits Practice – Verilog Solutions
 
 This repository contains my solutions to the [HDLBits](https://hdlbits.01xz.net/) online problem set, a comprehensive platform for learning and practicing digital logic design using **Verilog HDL**.
+
+
 
 HDLBits is highly recommended for beginners and intermediate learners aiming to strengthen their grasp of RTL design, combinational and sequential logic, FSMs, and Verilog programming.
 
@@ -28,10 +33,10 @@ HDLBits is highly recommended for beginners and intermediate learners aiming to 
 
 ## 🛠️ Tools Used
 
-- **Verilog HDL** – Hardware description language for modeling
-- **Icarus Verilog / Vivado / ModelSim** – For simulation and testing
-- **GTKWave / EPWave** – For waveform viewing
-- **VS Code / Quartus / EDA Playground** – Code editing and simulation
+- Verilog HDL – Hardware description language for modeling
+- Icarus Verilog / Vivado / ModelSim – For simulation and testing
+- GTKWave / EPWave – For waveform viewing
+- VS Code / Quartus / EDA Playground – Code editing and simulation
 
 ---
 
