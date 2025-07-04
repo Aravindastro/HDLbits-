@@ -206,6 +206,6 @@ endmodule
 
 5. Schematic Diagram
 
-![Schematic](fa_rtl_schematic)
+![Schematic](fa_rtl_schematic.png)
 
 
