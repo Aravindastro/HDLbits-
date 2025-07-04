@@ -202,10 +202,11 @@ module ha_tb;
   end
 endmodule
 
+```
 
+---
 
-5. Schematic Diagram
+## 5. Schematic Diagram
 
 ![Schematic](fa_rtl_schematic.png)
-
 
