@@ -9,7 +9,7 @@ This document packages all related files and schematic for the Full Adder design
 
 ---
 
-1. FA.v
+## 1. FA.v
 
 ```verilog
 `timescale 1ns / 1ps
@@ -60,7 +60,7 @@ endmodule
 
 ---
 
-2. FA_tb.v
+## 2. FA_tb.v
 
 ```verilog
 `timescale 1ns / 1ps
@@ -115,7 +115,7 @@ endmodule
 
 ---
 
-3. ha.v
+## 3. ha.v
 
 ```verilog
 `timescale 1ns / 1ps
@@ -151,7 +151,7 @@ endmodule
 
 ---
 
-4. ha_tb.v
+## 4. ha_tb.v
 
 ```verilog
 `timescale 1ns / 1ps
