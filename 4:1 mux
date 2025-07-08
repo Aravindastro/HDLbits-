@@ -28,6 +28,8 @@ module mux4to1_behavioral (
     end
 endmodule
 
+---------------------------------------------------
+
 // Structural modelling
 module mux4to1_structural (
     input  wire       i0, i1, i2, i3,
