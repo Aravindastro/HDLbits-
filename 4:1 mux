@@ -27,3 +27,5 @@ module mux4to1_behavioral (
         endcase
     end
 endmodule
+
+// Structural modelling
